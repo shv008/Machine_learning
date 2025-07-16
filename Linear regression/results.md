@@ -2,7 +2,7 @@
 -------------------------------------------------------------
 
 📌 Data Summary:
-- Total records used: [number of records]
+- Total records used: 1001
 - Features: 'Attendance_Hours' (X), 'Final_Marks' (Y)
 
 📈 Model Coefficients:
